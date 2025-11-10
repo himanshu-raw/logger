@@ -1,4 +1,4 @@
-# logger
+# Logger
 
 A brief tagline: *A lightweight personal blogging platform built with TypeScript and Vite.*
 
@@ -17,10 +17,10 @@ A brief tagline: *A lightweight personal blogging platform built with TypeScript
 - [License](#license)  
 - [Contact](#contact)  
 
-## 💡 About  
+### 💡 About  
 `logger` is a personal blog site where users can share their daily blogs. Built with modern front-end tooling and designed to be simple, performant, and extendable.
 
-## ✨ Features  
+### ✨ Features  
 - Create, edit, and publish blog posts  
 - User authentication (if applicable)  
 - Responsive design for desktop & mobile  
@@ -28,7 +28,7 @@ A brief tagline: *A lightweight personal blogging platform built with TypeScript
 - SEO-friendly URLs and metadata  
 - Themes/customization support (optional)  
 
-## 🧰 Tech Stack  
+### 🧰 Tech Stack  
 - **Language:** TypeScript  
 - **Framework/Bundler:** Vite  
 - **Frontend Library:** React (or specify whichever)  
@@ -36,7 +36,7 @@ A brief tagline: *A lightweight personal blogging platform built with TypeScript
 - **Build Configuration:** `vite.config.ts`  
 - **Other tools:** (list any additional tools/plugins)  
 
-## 🔧 Getting Started  
+### 🔧 Getting Started  
 
 ### Prerequisites  
 Make sure you have the following installed:  
