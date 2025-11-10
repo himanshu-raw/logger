@@ -48,3 +48,14 @@ Make sure you have the following installed:
 git clone https://github.com/himanshu-raw/logger.git
 cd logger
 npm install
+```
+### Folder Structure
+
+├── components/        # Reusable UI components
+├── context/           # React context providers
+├── pages/             # Route components
+├── services/          # API or utility logic
+├── App.tsx            # Root component
+├── main.tsx           # Entry point
+├── vite.config.ts     # Vite configuration
+├── tsconfig.json      # TypeScript configuration
