@@ -49,8 +49,8 @@ git clone https://github.com/himanshu-raw/logger.git
 cd logger
 npm install
 ```
-### Folder Structure
-
+## Folder Structure
+ ```bash
 ├── components/        # Reusable UI components
 ├── context/           # React context providers
 ├── pages/             # Route components
@@ -59,3 +59,4 @@ npm install
 ├── main.tsx           # Entry point
 ├── vite.config.ts     # Vite configuration
 ├── tsconfig.json      # TypeScript configuration
+```
