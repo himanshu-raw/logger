@@ -1,0 +1,5 @@
+{
+  "name": "Dory Blog Platform",
+  "description": "A full-featured blog platform where users can sign up, create and manage posts, and comment on articles. Includes an AI-powered writing assistant using the Gemini API to help generate content.",
+  "requestFramePermissions": []
+}
