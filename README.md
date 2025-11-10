@@ -1,4 +1,4 @@
-# logger
+# Logger
 
 *A lightweight personal blogging platform built with TypeScript and Vite.*
 
